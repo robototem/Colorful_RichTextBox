@@ -1,2 +1,10 @@
 # Colorful_RichTextBox
-This code can be used to print colorful messages in RichTextBox in WindowsFormApplications
+This code can be used to print colorful messages in RichTextBox in WindowsFormApplications.
+
+![image](https://user-images.githubusercontent.com/84636881/141698105-391c4f9d-8ee1-4d47-833e-3f2ea263e227.png)
+
+When calling the "Log" fuction, message code should be declared. So the color of text will change according to it.
+
+For example:
+
+Log("(1000) This is an ERROR message.");
